@@ -20,7 +20,9 @@ This ensures IT graduates are equipped with both the technical and soft skills r
 
 
 
---
+------------------------------------------------------------------------
+
+
 
 #### **📂 Project Structure**
 
@@ -28,71 +30,79 @@ This ensures IT graduates are equipped with both the technical and soft skills r
 
 The repository follows the GitHub Flow branching model:
 
-* **main →** Stable branch with production-ready code.
+
+
+* **main** → Stable branch with production-ready code.
 
 
 
-* **development →** Active development branch for new features and testing.
+* **development** → Active development branch for new features and testing.
 
 
 
-* Developers should create **feature branches** from development and submit pull requests before merging changes back into development.
+* Developers should create feature branches from development and submit pull requests before merging changes back into development.
 
 
 
----
+------------------------------------------------------------------------
+
+
 
 #### **🚀 Features**
 
 
 
-* **Skill Gap Analysis →** AI-driven assessment of both technical and soft skills to identify areas for improvement.
+* **Skill Gap Analysis** → AI-driven assessment of both technical and soft skills to identify areas for improvement.
 
 
 
-* **Personalized Learning Pathways →** Dynamic, adaptive learning plans tailored to each student’s needs using reinforcement learning.
+* **Personalized Learning Pathways** → Dynamic, adaptive learning plans tailored to each student's needs using reinforcement learning.
 
 
 
-* **AI-Powered Mock Interviews →** Video-based simulations using CNNs, NLP, and pose estimation to evaluate verbal, non-verbal, and technical skills with instant feedback.
+* **AI-Powered Mock Interviews** → Video-based simulations using CNNs, NLP, and pose estimation to evaluate verbal, non-verbal, and technical skills with instant feedback.
 
 
 
-* **Industry Insights Dashboard →** Real-time job market analysis with predictive analytics to visualize skill demands and recommend certifications, projects, and courses.
+* **Industry Insights Dashboard** → Real-time job market analysis with predictive analytics to visualize skill demands and recommend certifications, projects, and courses.
 
 
 
-**Comprehensive Career Support →** Aligns academic outcomes with industry requirements to ensure IT graduates are industry-ready.
+**Comprehensive Career Support** → Aligns academic outcomes with industry requirements to ensure IT graduates are industry-ready.
 
 
 
----
+------------------------------------------------------------------------
+
+
 
 #### **🧠 Technologies \& Expertise**
 
 
 
-* **Machine Learning \& AI →** Skill gap analysis, predictive analytics.
+* **Machine Learning \& AI** → Skill gap analysis, predictive analytics.
 
 
 
-* **Natural Language Processing (NLP) →** Verbal communication and soft skills evaluation.
+* **Natural Language Processing (NLP)** → Verbal communication and soft skills evaluation.
 
 
 
-* **Computer Vision →** Body language and facial expression recognition.
+* **Computer Vision** → Body language and facial expression recognition.
 
 
 
-* **Human-Computer Interaction (HCI) →** User-friendly and interactive interfaces.
+* **Human-Computer Interaction (HCI)** → User-friendly and interactive interfaces.
 
 
 
-* **Data Sources →** Real-time job market data, student performance datasets, and industry benchmarks.
+* **Data Sources** → Real-time job market data, student performance datasets, and industry benchmarks.
 
 
 
----
+------------------------------------------------------------------------
+
+
 
 #### **🎯 Objectives**
 
@@ -110,25 +120,25 @@ The repository follows the GitHub Flow branching model:
 
 
 
----
+------------------------------------------------------------------------
 
-#### 👥 Authors
-
-
-
-* **Karunathilaka M.G.S.H →** Skill Gap Analysis
+#### **👥 Authors**
 
 
 
-* **Madushan J.M.T. →** AI-Powered Mock Interviews
+* **Karunathilaka M.G.S.H → Skill Gap Analysis**
 
 
 
-* **Ekanayake T.E.M.A.P. →** Personalized Learning Pathways
+* **Madushan J.M.T. → AI-Powered Mock Interviews**
 
 
 
-* **Dias N.T.G.P. →** Job Market Prediction \& Career Insights
+* **Ekanayake T.E.M.A.P. → Personalized Learning Pathways**
+
+
+
+* **Dias N.T.G.P. → Job Market Prediction \& Career Insights**
 
 
 
@@ -136,48 +146,21 @@ The repository follows the GitHub Flow branching model:
 
 
 
-* **Ms. Sanjeevi Chandrasiri**
+* **Ms. Sanjeevi Chandrasiri**
 
 
 
-* **Ms. Tharushi Rubasinghe**
+* **Ms. Tharushi Rubasinghe**
 
 
 
+---
 
 
 
+#### **📌Links**
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+**GitHub** - https://github.com/it21350450/R25-043.git
 
