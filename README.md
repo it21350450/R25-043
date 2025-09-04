@@ -20,7 +20,7 @@ This ensures IT graduates are equipped with both the technical and soft skills r
 
 
 
----
+--
 
 #### **📂 Project Structure**
 
@@ -141,6 +141,7 @@ The repository follows the GitHub Flow branching model:
 
 
 * **Ms. Tharushi Rubasinghe**
+
 
 
 
