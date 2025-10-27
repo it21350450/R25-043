@@ -1,0 +1,79 @@
+--- Page 1 ---
+SASINDU HASARINDA
+B.SC.(HONS)UNDERGRADUATEiNINFORMATiONTECHNOLOGY
+No.2781/1,SunandaRoad,Welegoda,Matara,SriLanka
+(cid:294)0777546696 | (cid:263)sasinduhasarinda1998@gmail.com | (cid:117)www.thecn.com/LL1397 | (cid:94)/it20009236 | (cid:93)
+/sasindu-hasarinda-08957a238/
+Energeticanddetail‑oriented4th‑yearundergraduateatSriLankaInstituteofInformationTechnology(SLIIT),pursuingaB.Sc.(Hons)inInforma‑
+tionTechnologywithastrongfocusonSoftwareTesting,DataScience,andSoftwareEngineering.Passionateaboutproblem‑solving,automation,
+andproactivemonitoring.Seekinganinternshiptoapplytechnicalknowledge,gainindustryexperience,andcontributeeffectivelytoadynamic
+team
+Experience
+AccronRevolutionPrivateLimited Remote
+SoftwareEngineerIntern,FrontendDeveloper june2024‑Jan2025
+• AfrontenddeveloperspecializinginNext.jsandStyleXfocusesonbuildinghigh‑performance,responsive,andvisuallyappealingwebapplica‑
+tions.TheycreatedynamicandSEO‑optimizeduserinterfaceswhileleveragingStyleXforstreamlinedandefficientstyling.
+Education
+SLIIT Malabe,SriLanka
+BSc(Hons.)inInformationTechnology Feb2022‑Present
+• Courses:SoftwareQualityAssurance(SQA),Object‑OrientedProgrammingConcepts,DataStructures,SoftwareEngineering,SamplingTech‑
+niques,StatisticalTheoryandMethods,StatisticalSimulation,GraphTheory,SetTheory,DesignandAnalysisofAlgorithms,Non‑parametric
+andCategoricalDataAnalysis
+• CGPA:2.9outof4.0
+RahulaCollege Matara,SriLanka
+HighSchool Mar2004‑Aug2018
+• GCEAdvancedLevel|2018:Mathematics,Physics,Chemistry(Z‑score:1.24)
+AinMathematics,BinChemistry,CinPhysics
+• GCEOrdinaryLevel|2014:Passedwith7A’sand2B’s
+Projects
+WebApplicationforGymManagementSystem Malabe
+SLIIT Feb2024‑Dec2024
+• Developedagymmanagementsystemusing**JavaSpringBoot,React.js,andMongoDB**.
+• Implementedfeatureslikemembershipmanagement,classscheduling,automatedpayments,andsocialengagement(posts,likes,comments).
+IShop–WebAppforVisuallyImpairedUsers Malabe
+SLIIT Feb2024‑Dec2024
+• Designedandimplemented**IShop**,anaccessibleonlineshoppingplatformusing**Next.js,Firebase,andNode.js**.
+• Integratedvoice‑assistednavigation,securepayments,productreviews,wishlists,andordertracking.
+ProjectManagementTool Remote
+AccronRevolution Jun2024‑Present
+• Developeda**taskmanagementplatform**using**Next.jsandFirebase**.
+• ImplementedKanbanboards,taskassignments,real‑timeupdates,andvisualprojecttracking(Ganttcharts).
+OnlineTicketBookingSystem Remote
+AccronRevolution Jun2024‑Present
+• Builta**ticketbookingplatform**foreventsandservicesusing**Next.jsandFirebase**.
+• Integratedseatselection,multi‑paymentgateways,andreal‑timeeventmanagement.
+JUNE15,2025 1
+
+--- Page 2 ---
+LoanManagementSystem Remote
+AccronRevolution Jun2024‑Present
+• Developeda**loanmanagementwebapplication**using**Next.jsandFirebase**.
+• Implementedfeatureslike**loantracking,automatednotifications,secureauthentication,andreal‑timepayments**.
+Skills
+MachineLearning&AI: Experiencewithdeeplearningframeworks,modeltraining,andevaluation.
+ProgrammingLanguages: Python(PyTorch,CV2,Matplotlib,Pandas,TensorFlow),R,C/C++,Java,SQL,JavaScript.
+WebDevelopment: React.js,Next.js,Django,HTML,CSS.
+DatabaseManagement: MySQL,FirebaseFirestore,MongoDB.
+Cloud&Virtualization: AWS(EC2,S3),VirtualBox,VMware.
+Testing&Monitoring: Selenium,Cypress,Postman,ITILProcesses.
+Tools&Platforms: Git,Linux(Bash/Zsh),Docker,Jira.
+SoftSkills: Problem‑Solving,TimeManagement,TeamCollaboration,Documentation.
+SpokenLanguages: English,Sinhala(Native).
+Certificates
+MachineLearningSpecialization
+Coursera,DeepLearning.ai&StanfordUniversity Jun2024
+DeepLearningSpecialization
+Coursera,DeepLearning.ai Jul2024
+References
+N.H.P.RaviSupunyaSwarnakantha SLIIT
+SeniorLecturer,DepartmentofComputing
+• Phone:+94417544507/+94716043746
+• Email:ravi.s@sliit.lk
+• Relation:Lecturer
+K.B.A.B.Chathurika SLIIT
+SeniorLecturer,DepartmentofComputing
+• Phone:+94417544507/Mobile:+94716043747
+• Email:chathurika.c@sliit.lk
+• Relation:Lecturer
+JUNE15,2025 2
+
